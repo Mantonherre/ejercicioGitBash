@@ -1,10 +1,7 @@
 linea1
 linea2
-<<<<<<< HEAD
 linea1RamaMain
 linea2RamaMain
-=======
 linea3
 linea4
 linea5
->>>>>>> mirama
